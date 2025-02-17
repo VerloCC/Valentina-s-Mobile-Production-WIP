@@ -1,0 +1,193 @@
+[
+	{
+		"name": "Propaganda Broadcast",
+		"happiness": 50,
+		"cost": 100,
+		"requiredTech": "Radio"
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy"
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Institute Of Research Affairs",
+		"production": 2,
+		"happiness": 1,
+		"culture": 2,
+		"gold": 5,
+		"cost": 40,
+		"maintenance": 2,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["Gain [3] [Science] <every [5] turns>", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Institute Of Espionage",
+		"production": 2,
+		"happiness": 1,
+		"culture": 2,
+		"gold": 5,
+		"cost": 100,
+		"maintenance": 2,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["Gain an extra spy <every [15] turns>", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Kriegsmacht Institute",
+		"production": 1,
+		"happiness": 2,
+		"faith": 2,
+		"culture": 1,
+		"gold": 4,
+		"cost": 100,
+		"requiredTech": "Gunpowder"
+		"maintenance": 2,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["New [All] units start with [20] Experience [in this city]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Resource Optimizer Algorithm",
+		"cost": 80,
+		"requiredTech": "Mathematics"
+		"maintenance": 1,
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Production Increase I",
+		"cost": 50,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+5]% [Production]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Production Increase II",
+		"cost": 80,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+10]% [Production]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Production Increase III",
+		"cost": 100,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+15]% [Production]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Production Increase IV",
+		"cost": 120,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+20]% [Production]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Production Increase V",
+		"cost": 140,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+25]% [Production]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Research Increase I",
+		"cost": 50,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+5]% [Science]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Research Increase II",
+		"cost": 80,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+10]% [Science]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Research Increase III",
+		"cost": 100,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+15]% [Science]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Research Increase IV",
+		"cost": 120,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+20]% [Science]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Research Increase V",
+		"cost": 140,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+25]% [Science]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Food Increase I",
+		"cost": 50,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+5]% [Food]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Food Increase II",
+		"cost": 80,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+10]% [Food]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Food Increase III",
+		"cost": 100,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+15]% [Food]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Food Increase IV",
+		"cost": 120,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+20]% [Food]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Food Increase V",
+		"cost": 140,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+25]% [Food]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Culture Increase I",
+		"cost": 50,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+5]% [Culture]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Culture Increase II",
+		"cost": 80,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+10]% [Culture]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Culture Increase III",
+		"cost": 100,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+15]% [Culture]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Culture Increase IV",
+		"cost": 120,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+20]% [Culture]", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Culture Increase V",
+		"cost": 140,
+		"maintenance": 1,
+		"uniqueTo": "The Empire of Aurelian Ascendancy",
+		"uniques": ["[+25]% [Culture]", "Will not be displayed in Civilopedia"]
+	}
+]
